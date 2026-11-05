@@ -124,6 +124,11 @@ INSERT boing.ball_def (ball, cx0, cy0, vx0, vy0, pal_a, pal_b) VALUES
     (1, 240, 130, -1.55, 0, 6, 7);
 GO
 
+INSERT boing.ball_def (ball, cx0, cy0, vx0, vy0, pal_a, pal_b) VALUES
+    (2, 240, 100, -1.55, 0, 4, 6);
+GO
+
+
 /* Live simulation state, and the per-frame record the renderer reads. */
 DROP TABLE IF EXISTS boing.ball;
 GO
