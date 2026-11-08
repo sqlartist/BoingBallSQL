@@ -1,5 +1,8 @@
 # The Day My Database Learned Physics
 
+> **Read the full story:** For the full breakdown of how this project came to be and the initial metrics, check out the article on [Medium](https://medium.com/@trevor.dwyer/boing-boing-boing-f7ba95007e3f). Follow me there for future updates! You can also read it free on [my blog](https://sqlartist.github.io/posts/boing-boing-boing/).
+
+
 ## Putting the Amiga Boing ball inside SQL Server, and what broke when I added a second one
 
 I've spent the last few months putting things inside SQL Server that have no business being there. Doom renders E1M1 from a database. Elite generates its galaxy, flies its ships and docks at a Coriolis station in T-SQL. Daley Thompson's Decathlon runs on a Z80 emulator I wrote in stored procedures, loading from a real Microdrive image.
